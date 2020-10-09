@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "730419235401",
+    "firebase_url": "https://listrique.firebaseio.com",
+    "project_id": "listrique",
+    "storage_bucket": "listrique.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730419235401:android:3ccfbc91adbe2929d10d98",
+        "android_client_info": {
+          "package_name": "id.listrique"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730419235401-oalc44tke4db7cnn18ljilrr0hou4l0l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.listrique",
+            "certificate_hash": "8a0b54b064a2556c3f1a3c08593503b0639a0704"
+          }
+        },
+        {
+          "client_id": "730419235401-rv2nm84arbo0ao583l0vdbtf27dar5ek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFuHiK7DJFDpnh85Thuovjf9jSpSBEo_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730419235401-rv2nm84arbo0ao583l0vdbtf27dar5ek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

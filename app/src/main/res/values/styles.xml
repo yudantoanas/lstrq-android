@@ -1,0 +1,25 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="TextViewRegular" parent="Widget.MaterialComponents.TextView">
+        <item name="fontFamily">@font/roboto_regular</item>
+    </style>
+
+    <style name="TextViewBold" parent="Widget.MaterialComponents.TextView">
+        <item name="fontFamily">@font/roboto_bold</item>
+    </style>
+
+    <style name="TextViewLight" parent="Widget.MaterialComponents.TextView">
+        <item name="fontFamily">@font/roboto_light</item>
+    </style>
+
+    <style name="TextViewMedium" parent="Widget.MaterialComponents.TextView">
+        <item name="fontFamily">@font/roboto_medium</item>
+    </style>
+</resources>
